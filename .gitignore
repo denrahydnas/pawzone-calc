@@ -3,6 +3,7 @@
 
 # Ignore snippets file
 *magpie.txt
+*secret_settings.py
 
 # ignore node modules
 node_modules/
